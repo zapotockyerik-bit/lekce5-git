@@ -8,3 +8,5 @@ git status - zobrazi zmenene a staged soubory
 git diff - ukaze konkretni zmeny
 git add .
 git commit -m ""
+
+edit z githubu
