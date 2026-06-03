@@ -7,3 +7,4 @@ git config --global user.email ""
 git status - zobrazi zmenene a staged soubory
 git diff - ukaze konkretni zmeny
 git add .
+git commit -m ""
